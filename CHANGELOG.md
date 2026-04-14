@@ -1,6 +1,13 @@
 # 1.0.0 (2026-04-14)
 
 
+### Features
+
+* add webp image conversion tool with CLI and reference updating ([e5b9020](https://github.com/JoCodeX/webp-me-all/commit/e5b9020b951895ab72f480d1631d89ddf11aa6d1))
+
+# 1.0.0 (2026-04-14)
+
+
 ### Bug Fixes
 
 * remove NPM_TOKEN from release workflow for security reasons ([00bd42f](https://github.com/JoCodeX/webp-me-all/commit/00bd42f1e49e8d4b5620579ea28eddbebef7d000))
