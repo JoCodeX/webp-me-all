@@ -1,0 +1,13 @@
+src
+test
+coverage
+.github
+tsconfig.json
+tsup.config.ts
+vitest.config.ts
+.releaserc.json
+.gitignore
+PUBLISHING.md
+node_modules
+*.log
+.env*
